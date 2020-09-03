@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[32,)"
+license="MIT License"
+[[mods]]
+modId="sf"
+version="${file.jarVersion}"
+displayName="Spawner Fix"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/spawner-fix"
+logoFile="logo.png"
+authors="Lupicus, MacTso"
+description='''Spawner Fix Mod'''
+[[dependencies.sf]]
+    modId="forge"
+    mandatory=true
+    versionRange="[32,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sf]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1]"
+    ordering="NONE"
+    side="BOTH"
