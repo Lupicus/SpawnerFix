@@ -1,3 +1,4 @@
 {
-	"Enderman": "asm/Enderman.js"
+	"Enderman": "asm/Enderman.js",
+	"ZombPiglin": "asm/ZombPiglin.js"
 }
