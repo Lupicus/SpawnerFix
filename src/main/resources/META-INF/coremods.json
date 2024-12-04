@@ -1,4 +1,7 @@
 {
+	"Bee": "asm/Bee.js",
 	"Enderman": "asm/Enderman.js",
+	"PolarBear": "asm/PolarBear.js",
+	"Wolf": "asm/Wolf.js",
 	"ZombPiglin": "asm/ZombPiglin.js"
 }
